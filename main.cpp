@@ -1,2 +1,2 @@
 #include <iostream>
-int x = 10;
+int z = 10;
